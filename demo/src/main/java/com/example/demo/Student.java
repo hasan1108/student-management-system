@@ -14,7 +14,6 @@ public class Student {
     private String firstName;
     private String lastName;
 
-    // Getter ve setter metotlarını ekleyin
 
     public Long getId() {
         return id;
